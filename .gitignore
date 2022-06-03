@@ -1,0 +1,13 @@
+.vscode/
+.history
+__pycache__
+*.pyc
+
+models/*
+!models/.gitkeep
+logs/*
+!logs/.gitkeep
+
+data/*
+!data/splicing_*.csv
+!data/paralogs_*.csv
